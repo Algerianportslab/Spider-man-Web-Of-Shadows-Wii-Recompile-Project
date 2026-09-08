@@ -63,3 +63,5 @@ Shader compilation issues are currently being addressed on select GPU drivers.
 
 Requirements may change in the future.
 
+# Uninportant Information
+I will not be releasing the source code as it is private for developers only.
