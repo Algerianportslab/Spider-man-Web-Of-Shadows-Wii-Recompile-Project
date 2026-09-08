@@ -16,6 +16,8 @@ Spider-Man: Web of Shadows runs on a custom engine tailored for fast-paced open-
 # How do i launch the game?
 
 SMWOSRE doesn't contain the game files. To run the game you need to own a legally obtained copy of the game.
+<img width="1280" height="718" alt="Spider_Man_WoS_Screenshot" src="https://github.com/Algerianportslab/Spider-man-Web-Of-Shadows-Wii-Recompile-Project/blob/main/Picsart_26-09-08_18-42-24-734-1.jpg" />
+
 
 # Supported Platforms
 Android (57%)
