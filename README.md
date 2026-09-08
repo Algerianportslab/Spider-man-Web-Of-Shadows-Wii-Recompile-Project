@@ -1,5 +1,3 @@
-# Spider-man-Web-Of-Shadows-Wii-Recompile-Project
-Decompilation project of the spider-man web of shadows wii for android and ios
 # The Spider-Man: Web of Shadows Recompile Project
 The Spider-Man: Web of Shadows Recompile Project is a project where we recompile the game titled "Spider-Man: Web of Shadows" into Android and iOS.
 
