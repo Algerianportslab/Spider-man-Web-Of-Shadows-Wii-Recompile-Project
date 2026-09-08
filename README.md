@@ -11,7 +11,7 @@ Spider-Man: Web of Shadows is a 2008 action-adventure game developed by Shaba Ga
 
 Spider-Man: Web of Shadows runs on a custom engine tailored for fast-paced open-world web-swinging and dynamic multi-surface combat.
 
-https://github.com/Algerianportslab/Spider-man-Web-Of-Shadows-Wii-Recompile-Project
+https://github.com/Algerianportslab/Spider-man-Web-Of-Shadows-Wii-Recompile-Project/blob/main/3652bbebd7e195e110c528b16818dacc.jpg
 
 
 # How do i launch the game?
