@@ -64,6 +64,9 @@ Shader compilation issues are currently being addressed on select GPU drivers.
 - 12GB RAM and higher
 - Android 12 and higher
 
+<img width="1280" height="718" alt="Spider_Man_WoS_Screenshot" src="https://github.com/Algerianportslab/Spider-man-Web-Of-Shadows-Wii-Recompile-Project/blob/main/Screenshot_2026-09-08-13-50-23-84_e4424258c8b8649f6e67d283a50a2cbc.jpg" />
+
+
 Requirements may change in the future.
 
 # Uninportant Information
